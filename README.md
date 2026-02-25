@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f21b3b57-a8ad-45a5-9400-5c2d88945a88" />
 
 🔧 RAM FIX — Stable Minecraft Without Lags or Crashes
 
